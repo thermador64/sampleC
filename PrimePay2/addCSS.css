@@ -1,0 +1,15 @@
+﻿body {
+}
+#first_name{
+    position:relative;
+    left: 25px;
+}
+#email{
+    position:relative;
+    left: 57px;
+
+}
+#last_name{
+    position:relative;
+    left: 26px;
+}

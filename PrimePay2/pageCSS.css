@@ -1,0 +1,17 @@
+﻿body {
+}
+td {
+    border: 1px solid black;
+    text-align: center;
+    padding: 5px;
+}
+
+table {
+    border-collapse: collapse;
+    //width: 400px;
+}
+
+#test{
+    visibility: hidden;
+    display:none;
+}

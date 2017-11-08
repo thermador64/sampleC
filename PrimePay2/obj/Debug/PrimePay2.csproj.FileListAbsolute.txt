@@ -1,0 +1,13 @@
+C:\Users\David\source\repos\PrimePay2\PrimePay2\bin\PrimePay2.dll.config
+C:\Users\David\source\repos\PrimePay2\PrimePay2\bin\PrimePay2.dll
+C:\Users\David\source\repos\PrimePay2\PrimePay2\bin\PrimePay2.pdb
+C:\Users\David\source\repos\PrimePay2\PrimePay2\bin\EntityFramework.dll
+C:\Users\David\source\repos\PrimePay2\PrimePay2\bin\EntityFramework.SqlServer.dll
+C:\Users\David\source\repos\PrimePay2\PrimePay2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\David\source\repos\PrimePay2\PrimePay2\bin\EntityFramework.xml
+C:\Users\David\source\repos\PrimePay2\PrimePay2\bin\EntityFramework.SqlServer.xml
+C:\Users\David\source\repos\PrimePay2\PrimePay2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\David\source\repos\PrimePay2\PrimePay2\obj\Debug\PrimePay2.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\PrimePay2\PrimePay2\obj\Debug\PrimePay2.dll
+C:\Users\David\source\repos\PrimePay2\PrimePay2\obj\Debug\PrimePay2.pdb
+C:\Users\David\source\repos\PrimePay2\PrimePay2\obj\Debug\PrimePay2.csprojResolveAssemblyReference.cache
